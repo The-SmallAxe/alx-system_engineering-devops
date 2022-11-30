@@ -1,1 +1,1 @@
-display directory contents long format, IDs grouped numerically
+This creates directory inside other directory
