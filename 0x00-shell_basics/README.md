@@ -1,1 +1,1 @@
-tree
+magic file
