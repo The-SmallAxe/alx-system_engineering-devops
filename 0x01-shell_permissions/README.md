@@ -1,1 +1,1 @@
-Script prints group memberships
+change ownership
