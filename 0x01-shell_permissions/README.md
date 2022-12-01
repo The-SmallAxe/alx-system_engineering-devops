@@ -1,1 +1,1 @@
-Displays the current logged username
+Script prints group memberships
