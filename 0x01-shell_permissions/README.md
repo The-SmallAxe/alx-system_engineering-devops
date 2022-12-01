@@ -1,1 +1,1 @@
-script to switch user
+Displays the current logged username
